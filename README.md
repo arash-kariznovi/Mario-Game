@@ -3,7 +3,7 @@
 A real-time implementation of the classic Super Mario game, developed for the STM32F3 (ARM Cortex-M4) microcontroller. This project demonstrates the use of embedded systems programming, efficient task scheduling, and hardware interfacing.  
 
 ---
-
+![Diagam](./2.jpg)
 ## Features  
 - **Real-time gameplay**: Smooth input handling and rendering.  
 - **Hardware integration**:  
@@ -15,7 +15,7 @@ A real-time implementation of the classic Super Mario game, developed for the ST
 - **Optimized performance**: Debugged and fine-tuned for memory and processing efficiency.  
 
 ---
-![LSTM Model Diagram](./lstm_model.png)
+
 
 ## Requirements  
 - **Hardware**:  
